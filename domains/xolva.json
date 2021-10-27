@@ -1,0 +1,12 @@
+{
+  "description": "My Profile",
+  "repo": "https://github.com/xolvaid",
+  "owner": {
+    "username": "xolvaid",
+    "email": "iniakuntumbaledu@gmail.com"
+  },
+  "record": {
+    "CNAME":"myxprofile.xolva.ml"
+
+ }
+}
